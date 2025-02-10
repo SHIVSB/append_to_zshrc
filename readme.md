@@ -25,3 +25,8 @@ To install the `append_to_zshrc` script, follow these steps:
 git clone https://github.com/SHIVSB/append_to_zshrc.git
 cd append_to_zshrc
 
+### 2. Run the Installer
+
+```bash
+./install.sh
+```
