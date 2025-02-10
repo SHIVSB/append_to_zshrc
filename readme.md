@@ -30,3 +30,7 @@ cd append_to_zshrc
 ```bash
 bash install.sh
 ```
+
+```
+Usage: append_to_zshrc "alias gc='git commit'"
+```
