@@ -32,5 +32,5 @@ bash install.sh
 ```
 ### 3. Usage
 ```
-Usage: append_to_zshrc "alias gc='git commit'"
+append_to_zshrc "alias gc='git commit'"
 ```
