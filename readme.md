@@ -1,6 +1,6 @@
 # append_to_zshrc
 
-`append_to_zshrc` is a simple script that allows you to easily add custom (or any other info) to your `.zshrc` file. You can install the script globally and use it from anywhere to streamline your workflow by adding pre-defined aliases.
+`append_to_zshrc` is a simple script that allows you to easily add custom alias to your `.zshrc` file. You can install the script globally and use it from anywhere to streamline your workflow by adding pre-defined aliases.
 
 ## Features
 
